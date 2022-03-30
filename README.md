@@ -9,12 +9,17 @@ In this project, we proceed as follow:
 
 i. Present the lumped mechanical model of
 the system
+
 ii. Drive the steady state equations
+
 iii. Linearize the state equations around an
 operating point
+
 iv. Compare the linear and non-linear’ s
 pulse response
+
 v. Specifics of the simulations
+
 vi. Yield the second order perturbation
 correction for the linear model and
 compare it to the linear response
