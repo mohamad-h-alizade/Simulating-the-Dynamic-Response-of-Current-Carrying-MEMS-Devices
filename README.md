@@ -4,7 +4,7 @@ from current carrying, linear elastic MEMS
 devices is non-linear. This is due to inverse
 proportional force in the magnetic force of two
 wires.
-In this short note, we proceed as follow:
+In this project, we proceed as follow:
 i. Present the lumped mechanical model of
 the system
 ii. Drive the steady state equations
